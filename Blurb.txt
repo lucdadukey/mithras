@@ -1,0 +1,2 @@
+<center style="font-variant:small-caps;font-weight:900;text-shadow:0.5px 1px #708090;"><b><i>Play Mithras, a quest based adventure game where you play as Mithras the human. Defeat each dungeon to progress.</i></b></center>
+<!-- THESE STYLES ARE COPYRIGHTED!!!! -->
